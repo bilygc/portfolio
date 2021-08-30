@@ -12,9 +12,7 @@ export default class About extends Component {
                             I love to build amazing apps
                         </h1>
                         <p className="mb-8 leading-relaxed">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                        laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                        Laborum, voluptas natus?
+                        I studied for a degree in computer science at the autonomous university of Sinaloa. graduated 12 years ago. that's how my career as a programmer started
                         </p>
                         <div className="flex justify-center" >
                             <a
@@ -29,11 +27,11 @@ export default class About extends Component {
                             </a>
                         </div>
                     </div>
-                    <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+                    <div className="lg:max-w-md lg:w-full md:w-1/2 w-2/3">
                     <img
                         className="object-cover object-center rounded"
                         alt="hero"
-                        src="./Me.jpg"
+                        src="./portadaWeb.jpg"
                     />
                     </div>
                 </div>
