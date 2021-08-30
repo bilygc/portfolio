@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class About extends Component {
     render() {
         return (
-            <section id="about1">
+            <section id="about">
                 <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
                     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                         <h1 className="text-cyan-600 hover:text-cyan-700">
@@ -12,7 +12,7 @@ export default class About extends Component {
                             I love to build amazing apps
                         </h1>
                         <p className="mb-8 leading-relaxed">
-                        I studied for a degree in computer science at the autonomous university of Sinaloa. graduated 12 years ago. that's how my career as a programmer started
+                        I studied for a degree in computer science at the autonomous university of Sinaloa. graduated 12 years ago. that's how my career as a developer started
                         </p>
                         <div className="flex justify-center" >
                             <a
