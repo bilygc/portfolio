@@ -50,27 +50,27 @@ export const projects = [
 
   export const testimonials = [
     {
-      quote: "Hola",
-      image:"./Me.jpg",
-      name: "walter",
-      company: "neoris"
+      quote: "He is excellent at his job, he adapts perfectly to any work environment.",
+      image:"./dalia.jpg",
+      name: "Dalia Echavarria Garcia",
+      company: "Salud Digna"
     },
     {
-      quote: "Hola amigos",
-      image:"./Me.jpg",
-      name: "Eduardo Osuna",
-      company: "Afore Coppel"
+      quote: "Bily, is a very proactive person in its work, and of being an excellent coworker by its capacity, has the ample knowledge of test tools and as to be human it is better.",
+      image:"./walter.jpg",
+      name: "Walter Arriero",
+      company: "Neoris"
     },
     {
-      quote: "Hola a quien corresponda",
-      image:"./Me.jpg",
-      name: "Roque",
+      quote: "Very professional, person with great experience in IT and Systems for different companies and industries.",
+      image:"./avatar.png",
+      name: "Roque Montoya Peñuelas",
       company: "Calzzapato"
     },
     {
       quote: "Hola que tal",
       image:"./Me.jpg",
-      name: "Claudia",
+      name: "Jesus Castro",
       company: "Coppel"
     }
   ]
