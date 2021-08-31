@@ -59,21 +59,21 @@ export default class Contact extends Component {
                                     ADDRESS
                                 </h2>
                                 <p className="mt-1">
-                                    97 Warren St. <br />
-                                    New York, NY 10007
+                                    Aztlan #3673 Paseos del Rey <br />
+                                    Culiacan Sinaloa.
                                 </p>
                             </div>
                             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                                 <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                     EMAIL
                                 </h2>
-                                <a className="text-indigo-400 leading-relaxed">
-                                    reedbarger@email.com
+                                <a className="text-indigo-400 leading-relaxed" href="mailto:licbgomez@gmail.com">
+                                    licbgomez@gmail.com
                                 </a>
                                 <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                                     PHONE
                                 </h2>
-                                <p className="leading-relaxed">123-456-7890</p>
+                                <a className="leading-relaxed" href="tel:(52)667-1263836">(52)667-1263836</a>
                             </div>
                         </div>
                     </div>
@@ -86,8 +86,8 @@ export default class Contact extends Component {
                             Hire Me
                         </h2>
                         <p className="leading-relaxed mb-5">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-                            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+                            if you want to contact me you can use the form below, send me your contact data and a message i'll contact you back soon, or if you prefer you can 
+                            send me an email or call me directly to my cellphone.
                         </p>
                         <div className="relative mb-4">
                             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
