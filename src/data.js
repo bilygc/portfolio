@@ -1,11 +1,11 @@
 export const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "React Movie generator",
+      subtitle: "React and HarperDB API",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./app1.png",
-      link: "https://reactbootcamp.com",
+        "This app will display a movie along with its main information and finally a button which links to the movie’s IMDb page.",
+      image: "./movie.png",
+      link: "https://moviegenerator.netlify.app/",
     },
     {
       title: "React Tracks",
