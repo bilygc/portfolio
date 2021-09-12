@@ -1,19 +1,19 @@
 export const projects = [
     {
       title: "React Movie generator",
-      subtitle: "React and HarperDB API",
+      subtitle: "React, HarperDB API, PWA",
       description:
         "This app will display a movie along with its main information and finally a button which links to the movie’s IMDb page.",
       image: "./movie.png",
       link: "https://moviegenerator.netlify.app/",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Text Animator",
+      subtitle: "React, Giphy Api, PWA",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./app2.png",
-      link: "https://reedbarger.com",
+        "A PWA React APP that animates a text given a input",
+      image: "./giphy.png",
+      link: "https://giphy-animated-text.netlify.app/",
     },
     {
       title: "DevChat",
