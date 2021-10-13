@@ -16,20 +16,20 @@ export const projects = [
       link: "https://giphy-animated-text.netlify.app/",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Basic Ecommerce",
+      subtitle: "React, CommerceJS and PWA",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./app3.png",
-      link: "https://jsbootcamp.com",
+        "A basic React App that provides ecommerce functionalities",
+      image: "./commercejs.svg",
+      link: "https://bilysreactcommerce.netlify.app/",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Insta Picture",
+      subtitle: "Node, React, Redux, MongoDb, PWA",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./app4.png",
-      link: "https://pythonbootcamp.com",
+        "A funny app that allows you to upload and share pictures kinda like instagram",
+      image: "./commingSoon.png",
+      link: "#",
     },
   ];
 
@@ -62,15 +62,15 @@ export const projects = [
       company: "Neoris"
     },
     {
-      quote: "Very professional, person with great experience in IT and Systems for different companies and industries.",
-      image:"./avatar.png",
-      name: "Roque Montoya Peñuelas",
-      company: "Calzzapato"
+      quote: "Bily is a great coworker, he fulfills his assigned tasks without issues. he adapts very well to adversitys that could arise during his work.",
+      image:"./astro.jpg",
+      name: "Jorge Salvador Ruíz Montaño",
+      company: "Tata Consultancy Services"
     },
     {
-      quote: "Hola que tal",
-      image:"./Me.jpg",
-      name: "Jesus Castro",
+      quote: "Bily and I colaborated together in WebDev's area inside coppel company, since i met him, he stood out for being a dedicated person in his job, without dropping his assignment until was finished. another remarkable quality of him is his sincerity and critical thinking allowing him anticipate to a future working issues.",
+      image:"./ana.jpg",
+      name: "Ana Carolina Sánchez Aragón",
       company: "Coppel"
     }
   ]
