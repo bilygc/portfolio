@@ -28,8 +28,8 @@ export const projects = [
       subtitle: "Node, React, Redux, MongoDb, PWA",
       description:
         "A funny app that allows you to upload and share pictures kinda like instagram",
-      image: "./commingSoon.png",
-      link: "#",
+      image: "./instapictureWithText.jpg",
+      link: "https://insta-picture.netlify.app/",
     },
   ];
 
