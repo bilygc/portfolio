@@ -56,9 +56,9 @@ export const projects = [
       company: "Salud Digna"
     },
     {
-      quote: "Bily, is a very proactive person in its work, and of being an excellent coworker by its capacity, has the ample knowledge of test tools and as to be human it is better.",
-      image:"./walter.jpg",
-      name: "Walter Arriero",
+      quote: "Bily is a person committed and responsible with his job,always willing to learn and keep updated to obtain the desired results, what's more to be a person willing to hear advices and to propose new ideas",
+      image:"./cesar.png",
+      name: "Cesar Covantes",
       company: "Neoris"
     },
     {
