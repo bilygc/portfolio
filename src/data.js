@@ -1,7 +1,7 @@
 export const projects = [
     {
       title: "React Movie generator",
-      subtitle: "React, HarperDB API, PWA",
+      subtitle: "React, HarperDB API, PWA, Redux, Axios",
       description:
         "This app will display a movie along with its main information and finally a button which links to the movie’s IMDb page.",
       image: "./movie.png",
